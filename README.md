@@ -11,6 +11,7 @@
 ## Overview
 
 Todos los días vamos a sumarle algo nuevo a nuestra APP durante 24 días.
+
 La app va a ser una lista de regalos de navidad
 
 ### The challenge
