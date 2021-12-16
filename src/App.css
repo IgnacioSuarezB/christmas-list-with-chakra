@@ -12,7 +12,7 @@
 .App {
   /* background-color: #282c34; */
   font-family: "Fuzzy Bubbles", cursive;
-  min-height: 100vh;
+  /* min-height: 100vh; */
   font-size: calc(10px + 2vmin);
   background-image: url("https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/11/12/16367293961507.jpg");
   background-size: cover;

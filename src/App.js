@@ -1,14 +1,14 @@
-import logo from "./logo.svg";
 import "./App.css";
-import { Center } from "@chakra-ui/react";
+import { Box, Flex } from "@chakra-ui/react";
+import ListContainer from "./components/ListContainer";
 
 function App() {
   return (
-    <div className="App">
-      <Center bg="tomato" h="100px" color="white">
-        Chakra is working!
-      </Center>
-    </div>
+    <Box className="App">
+      <Flex justify="center" align="center" h="100vh">
+        <ListContainer />
+      </Flex>
+    </Box>
   );
 }
 
